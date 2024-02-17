@@ -1,0 +1,40 @@
+.navbar{
+    background-color: rgb(26, 25, 55);
+}
+.navheading{
+    
+    
+    
+      font-family: "Oswald", sans-serif;
+      
+   
+
+    color: rgb(255, 119, 0);
+}
+
+.buttons{
+   background-color:rgb(255, 119, 0) ;
+   outline: none;
+   border-color:rgb(255, 119, 0) ;
+}
+.herobutton{
+    margin-bottom: 150px;
+    width: 200px;
+    height: 60px;
+    background-color:rgb(255, 119, 0) ;
+    color: bisque;
+    
+    border: none;
+}
+.navbarthird h1{
+    font-size: 100px;
+    font-weight: bold;
+}
+.one h1{
+    font-size: 100px;
+    margin-top: 100px;
+}
+.onedown h1{
+    font-size: 60px;
+    
+}
